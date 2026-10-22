@@ -28,11 +28,11 @@
     "airpc": "^0.3.1",
     "ts-worker-register": "^0.0.1",
     "werift": "^0.22.9",
-    "ws": "^7.5.11"
+    "ws": "^8.22.0"
   },
   "devDependencies": {
     "@types/node": "^16.4.0",
-    "@types/ws": "^7.4.7",
+    "@types/ws": "^8.18.2",
     "ts-node": "^10.1.0",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.3.5"
